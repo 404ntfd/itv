@@ -1,5 +1,4 @@
 央视频道,#genre#
 卫视频道,#genre#
-吉林卫视,http://121.19.134.101:808/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://121.19.134.101:808/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://121.19.134.101:808/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 其他频道,#genre#
